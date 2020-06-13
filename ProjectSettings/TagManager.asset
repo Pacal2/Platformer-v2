@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - Enemy
+  - Powerup
+  - Platform
+  - Trap
+  - Arrow
+  - Attack
+  - Heal
+  - Fall
+  - Dialogue
+  - Ending
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Ladder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Black
+    uniqueID: 1613348523
+    locked: 0
+  - name: 3-Plan
+    uniqueID: 2820353019
+    locked: 0
+  - name: 2to3
+    uniqueID: 2530744287
+    locked: 0
+  - name: 2-Plan
+    uniqueID: 3340423451
+    locked: 0
+  - name: 1to2
+    uniqueID: 1529209581
+    locked: 0
+  - name: 1-Plan
+    uniqueID: 2540605811
+    locked: 0
+  - name: Entity
+    uniqueID: 298103985
+    locked: 0
+  - name: 0-Plan
+    uniqueID: 3084810421
+    locked: 0
